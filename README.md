@@ -1,5 +1,5 @@
-# prometheusExporterJavaEE6
-This a prometheus exporter for even Java EE6 Stack
+# prometheus_Exporter for Java EE 6 Applications
+This is a prometheus exporter for old Java EE6 Stack.
 
 I hope this will help someone with legacy code.
 
